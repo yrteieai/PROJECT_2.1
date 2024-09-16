@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PROject.2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE83D06A-7974-440F-A016-8BC095B2A4CF}|PROject.2.1\\PROject.2.1.vcxproj|C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PROject.2.1\\PROject.2.1\\PROject.2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE83D06A-7974-440F-A016-8BC095B2A4CF}|PROject.2.1\\PROject.2.1.vcxproj|solutionrelative:PROject.2.1\\PROject.2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PR.2.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PR.2.0.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PR.2.0.cpp",
+              "RelativeDocumentMoniker": "..\\PR.2.0.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PR.2.0.cpp",
+              "RelativeToolTip": "..\\PR.2.0.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T20:37:02.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PROject.2.1.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PROject.2.1\\PROject.2.1\\PROject.2.1.cpp",
+              "RelativeDocumentMoniker": "PROject.2.1\\PROject.2.1.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PROject.2.1\\PROject.2.1\\PROject.2.1.cpp",
+              "RelativeToolTip": "PROject.2.1\\PROject.2.1.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T20:36:43.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
